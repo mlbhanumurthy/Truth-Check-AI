@@ -53,7 +53,6 @@ TruthGuard/
 └── package.json # Project dependencies and scripts
 
 
-
 ---
 
 ⚙️ Installation & Setup
@@ -81,6 +80,7 @@ Build for production
 
 npm run build
 
+---
 
 🧩 Usage
 
@@ -95,11 +95,13 @@ Access summarized reports and flagged keywords.
 
 Integrate with APIs for automated content moderation.
 
+---
 
 🧱 Design Guidelines
 
 For UI consistency and accessibility standards, refer to design_guidelines.md.
 
+---
 
 🤝 Contributing
 
@@ -107,11 +109,13 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to fork the repo and submit a pull request with improvements.
 
+---
 
 🪪 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
+---
 
 💬 Acknowledgements
 
