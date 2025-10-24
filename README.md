@@ -31,21 +31,32 @@
 
 TruthGuard/
 ├── client/ # Frontend source (React + Vite)
+
 ├── server/ # Backend source (Node.js + Express)
+
 ├── shared/ # Shared logic, types, or constants
+
 ├── components.json # UI component registry
+
 ├── design_guidelines.md # Design and style documentation
+
 ├── drizzle.config.ts # Drizzle ORM configuration
+
 ├── postcss.config.js # PostCSS setup
+
 ├── tailwind.config.ts # TailwindCSS configuration
+
 ├── tsconfig.json # TypeScript configuration
+
 ├── vite.config.ts # Vite build configuration
+
 └── package.json # Project dependencies and scripts
+
 
 
 ---
 
-## ⚙️ Installation & Setup
+⚙️ Installation & Setup
 
 1. **Clone the repository**
    ```bash
@@ -57,40 +68,53 @@ Install dependencies
 npm install
 Run the development servers
 
-Frontend
 
+Frontend
 
 cd client
 npm run dev
 Backend
 
-
 cd server
 npm run dev
 Build for production
 
-
 npm run build
+
+
 🧩 Usage
+
 Upload or paste article content for verification.
+
 
 View AI-based classification and confidence scores.
 
+
 Access summarized reports and flagged keywords.
+
 
 Integrate with APIs for automated content moderation.
 
+
 🧱 Design Guidelines
+
 For UI consistency and accessibility standards, refer to design_guidelines.md.
 
+
 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
+
 Feel free to fork the repo and submit a pull request with improvements.
 
+
 🪪 License
+
 This project is licensed under the MIT License – see the LICENSE file for details.
 
+
 💬 Acknowledgements
+
 OpenAI and other NLP frameworks for model APIs
 
 TailwindCSS for the beautiful and responsive UI
